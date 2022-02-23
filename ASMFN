@@ -1,0 +1,896 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ASM.css">
+</head>
+<body>
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v13.0&appId=1014084625854047&autoLogAppEvents=1" nonce="mECBo5tz"></script>
+    <header>
+        <img src="Images/Gamestore.jpg" alt="">
+        <div >
+            <ul class="menu">
+                <li><a href="home.html">Trang chủ</a></li>
+                <li><a href="Naptien.html">Nạp tiền </a></li>
+                <li><a href="#">Lịch sử </a></li>
+                <li><a href="#">Dịch vụ game</a></li>
+            </ul>
+        </div>
+        <div>
+            <ul class="dangky">
+                <li><a href="đangnhap.html">Đăng nhập</a></li>
+                <li><a href="đăngký.html">Đăng kí</a></li>
+            </ul>
+        </div>
+    </header>
+    <nav>
+        <img src="Images/Shopacc.jpg" width="100%" alt="">
+    </nav>
+    <div class="Tieude">Liên Quân</div>  
+    <div class="Shop2">
+        <div>
+            <img src="Images/Liên Quân.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Liên Quân.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Liên Quân.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Liên Quân.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Liên Quân.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Liên Quân.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Liên Quân.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Liên Quân.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Liên Quân.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Liên Quân.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+    </div>
+    <iframe style="float: right;" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=450&layout=standard&action=like&size=small&share=true&height=35&appId=1014084625854047" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+    <div class="fb-comments" data-href="http://127.0.0.1:5500/18-PS23679-Nguy%E1%BB%85n%20Duy%20Kh%C3%A1nh-ASMGD2/ASM2/luachua.html" data-width="" data-numposts="5"></div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ASM.css">
+</head>
+<body>
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v13.0&appId=1014084625854047&autoLogAppEvents=1" nonce="mECBo5tz"></script>
+    <header>
+        <img src="Images/Gamestore.jpg" alt="">
+        <div >
+            <ul class="menu">
+                <li><a href="home.html">Trang chủ</a></li>
+                <li><a href="Naptien.html">Nạp tiền </a></li>
+                <li><a href="#">Lịch sử </a></li>
+                <li><a href="#">Dịch vụ game</a></li>
+            </ul>
+        </div>
+        <div>
+            <ul class="dangky">
+                <li><a href="đangnhap.html">Đăng nhập</a></li>
+                <li><a href="đăngký.html">Đăng kí</a></li>
+            </ul>
+        </div>
+    </header>
+    <nav>
+        <img src="Images/Shopacc.jpg" width="100%" alt="">
+    </nav>
+    <div class="Tieude">Lửa Chùa</div>  
+    <div class="Shop2">
+        <div>
+            <img src="Images/Lửa chùa.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Lửa chùa.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Lửa chùa.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Lửa chùa.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Lửa chùa.jpg" alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Lửa chùa.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Lửa chùa.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Lửa chùa.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Lửa chùa.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Lửa chùa.jpg" alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+    </div>
+    <iframe style="float: right;" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=450&layout=standard&action=like&size=small&share=true&height=35&appId=1014084625854047" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+    <div class="fb-comments" data-href="http://127.0.0.1:5500/18-PS23679-Nguy%E1%BB%85n%20Duy%20Kh%C3%A1nh-ASMGD2/ASM2/luachua.html" data-width="" data-numposts="5"></div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ASM.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="Images/Gamestore.jpg" alt="">
+        <div >
+            <ul class="menu">
+                <li><a href="home.html">Trang chủ</a></li>
+                <li><a href="Naptien.html">Nạp tiền </a></li>
+                <li><a href="#">Lịch sử </a></li>
+                <li><a href="#">Dịch vụ game</a></li>
+            </ul>
+        </div>
+        <div>
+            <ul class="dangky">
+                <li><a href="đangnhap.html">Đăng nhập</a></li>
+                <li><a href="đăngký.html">Đăng kí</a></li>
+            </ul>
+        </div>
+    </header>
+    <div>
+        <form action="">
+            <div class="form-group">
+                <div class="khung">
+                    <div style="margin-top: 120px;">
+                        <p style="font-size: large; font-variant: small-caps; color: darkgoldenrod;">Nạp tiền</p>
+                        <hr>
+                        <div>
+                            Loại thẻ:
+                            <label for="Loaithe"></label>
+                        </div>
+                        <select>
+                            <option> Vietel</option>
+                            <option> Mobiphone </option>
+                            <option> Vinaphone </option>
+                        </select>
+                        <div>Nhập số seri:</div>
+                        <input type="text"  name="username" class="form-control" >
+                        <div>Nhấp mã pin:</div>
+                        <input type="text"  name="username" class="form-control" >
+                        <hr>
+                        <input type="submit" name="Login" value="Xác nhận"  class="form-control">
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ASM.css">
+</head>
+<body>
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v13.0&appId=1014084625854047&autoLogAppEvents=1" nonce="mECBo5tz"></script>
+    <header>
+        <img src="Images/Gamestore.jpg" alt="">
+        <div >
+            <ul class="menu">
+                <li><a href="home.html">Trang chủ</a></li>
+                <li><a href="Naptien.html">Nạp tiền </a></li>
+                <li><a href="#">Lịch sử </a></li>
+                <li><a href="#">Dịch vụ game</a></li>
+            </ul>
+        </div>
+        <div>
+            <ul class="dangky">
+                <li><a href="đangnhap.html">Đăng nhập</a></li>
+                <li><a href="đăngký.html">Đăng kí</a></li>
+            </ul>
+        </div>
+    </header>
+    <nav>
+        <img src="Images/Shopacc.jpg" width="100%" alt="">
+    </nav>
+    <div class="Tieude">Ngọc rồng</div>  
+    <div class="Shop2">
+        <div>
+            <img src="Images/Ngọc rồng.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Ngọc rồng.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Ngọc rồng.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Ngọc rồng.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Ngọc rồng.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Ngọc rồng.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Ngọc rồng.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Ngọc rồng.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Ngọc rồng.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Ngọc rồng.png"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+    </div>
+    <iframe style="float: right;" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=450&layout=standard&action=like&size=small&share=true&height=35&appId=1014084625854047" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+    <div class="fb-comments" data-href="http://127.0.0.1:5500/18-PS23679-Nguy%E1%BB%85n%20Duy%20Kh%C3%A1nh-ASMGD2/ASM2/luachua.html" data-width="" data-numposts="5"></div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ASM.css">
+</head>
+<body>
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v13.0&appId=1014084625854047&autoLogAppEvents=1" nonce="mECBo5tz"></script>
+    <header>
+        <img src="Images/Gamestore.jpg" alt="">
+        <div >
+            <ul class="menu">
+                <li><a href="home.html">Trang chủ</a></li>
+                <li><a href="Naptien.html">Nạp tiền </a></li>
+                <li><a href="#">Lịch sử </a></li>
+                <li><a href="#">Dịch vụ game</a></li>
+            </ul>
+        </div>
+        <div>
+            <ul class="dangky">
+                <li><a href="đangnhap.html">Đăng nhập</a></li>
+                <li><a href="đăngký.html">Đăng kí</a></li>
+            </ul>
+        </div>
+    </header>
+    <nav>
+        <img src="Images/Shopacc.jpg" width="100%" alt="">
+    </nav>
+    <div class="Tieude">Liên Quân</div>  
+    <div class="Shop2">
+        <div>
+            <img src="Images/Tốc Chiến.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Tốc Chiến.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Tốc Chiến.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Tốc Chiến.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Tốc Chiến.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Tốc Chiến.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Tốc Chiến.jpg" alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Tốc Chiến.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Tốc Chiến.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+        <div>
+            <img src="Images/Tốc Chiến.jpg"  alt="">
+            <p class="p1">50.000</p>
+            <p class="p2">Mua Ngay</p>
+            <p class="p3">Chi tiết</p>
+        </div>
+    </div>
+    <iframe style="float: right;" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=450&layout=standard&action=like&size=small&share=true&height=35&appId=1014084625854047" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+    <div class="fb-comments" data-href="http://127.0.0.1:5500/18-PS23679-Nguy%E1%BB%85n%20Duy%20Kh%C3%A1nh-ASMGD2/ASM2/luachua.html" data-width="" data-numposts="5"></div>
+</body>
+</html>
+header>img{
+    width: 150px;
+    float: left;
+}
+body{
+    margin: 0 12%;
+    background-color: papayawhip;
+}
+.menu li {
+    margin :auto;
+    padding: 0 40px;
+    font-size: 16px;
+    line-height: 160px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+.menu li a{
+    color: black;
+    text-decoration: none;  
+}
+.dangky{
+    float: right;
+}
+
+.dangky li{
+    margin: 70px 0px;
+    background-color: darkgrey;
+    border: 1px solid black;
+    padding: 0 16px;
+    font-size: 16px;
+    text-transform: uppercase;
+    display: inline-block;
+ 
+}
+.dangky li a{
+    text-decoration: none;
+    color: black;
+}
+.menu{
+    float: left;
+}
+.dangky li:hover{
+    background-color: aqua;
+}
+.dangky li a:hover{
+    color: yellow;
+}
+.menu li a:hover{
+    color:indigo;
+    text-decoration: none;
+    border: solid 2px palevioletred;
+    background-color: wheat;
+    font-variant: small-caps;
+}
+.Tieude{
+    color: aliceblue;
+    background-color: darkturquoise;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 45px;
+    font-variant: small-caps;
+    text-transform: uppercase;
+}
+
+.Shop div{
+
+    width: 20%;
+    float: left;
+    margin: 25px;
+
+}
+.Shop img{
+    margin: 25px;
+    border: solid 1px red;
+    width: 80%;
+    border-radius: 40px;
+}
+h1{
+    text-align: center;
+    border: solid 1px red;
+    background-color: orange;
+}
+.Shop div a{
+    text-decoration: none;
+    color: white;
+}
+.Shop div a:hover{
+    color: red;
+}
+.form-group{
+    position: absolute;
+    text-align: center;
+    width: 1000px;
+    height: 300px;
+    top: 200px;
+    left: 250px;
+}
+.khung{
+    border: 1px solid yellow;
+    background-color: wheat;
+    width: 700px;
+    height: 450px;
+    margin: 0 150px;
+}
+.Shop2 div{
+    width: 15%;
+    float: left;
+    margin: 25px;
+
+}
+.Shop2 img{
+    margin: 10px;
+    width: 80%;
+    border-radius: 40px;
+}
+.p1{
+    background-color: orange;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    border:solid 1px gray;
+    border-radius: 10px;
+}
+.p2{
+    color: red;
+    border: solid 1px red;
+    text-transform: uppercase;
+    text-align: center;
+    border:solid 1px gray;
+    border-radius: 10px;
+}
+.p3{
+    color: dodgerblue;
+    border: solid 1px dodgerblue;
+    text-transform: uppercase;
+    text-align: center;
+    border:solid 1px gray;
+    border-radius: 10px;
+}
+.p2:hover{
+    background-color: white;
+}
+.p3:hover{
+    background-color: white;
+}
+footer{
+    border-top: 5px double orangered;
+    background-color: darkturquoise;
+    text-align: center;
+    font-variant: small-caps;
+    clear: both;
+    color: rgb(4, 15, 53);
+    font-size: 25px;
+}
+.lienhe{
+    margin: 5px;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ASM.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="Images/Gamestore.jpg" alt="">
+        <div >
+            <ul class="menu">
+                <li><a href="home.html">Trang chủ</a></li>
+                <li><a href="#">Nạp tiền </a></li>
+                <li><a href="#">Lịch sử </a></li>
+                <li><a href="#">Dịch vụ game</a></li> 
+            </ul>
+        </div>
+        <div>
+            <ul class="dangky">
+                <li><a href="đangnhap.html">Đăng nhập</a></li>
+                <li><a href="#">Đăng kí</a></li>
+            </ul>
+        </div>
+    </header>
+    <nav>
+        <img src="Images/Shopacc.jpg" width="100%" alt="">
+    </nav>
+    <div>
+        <div class="Tieude">Dịch vụ game</div>
+        <div class="Shop">
+            <div>
+                <img src="Images/Liên Quân.png"  alt="">
+                <a href="lienquan.html"><h1>Liên Quân</h1></a>
+            </div>
+            <div>
+                <img src="Images/Lửa chùa.jpg"  alt="">
+                <a href="luachua.html"><h1>Lửa Chùa</h1></a>
+            </div>
+            <div>
+                <img src="Images/Ngọc rồng.png"  alt="">
+                <a href="Ngocrong.html"><h1>Ngọc rồng</h1></a>
+            </div>
+            <div>
+                <img src="Images/Tốc Chiến.jpg"  alt="">
+                <a href="tocchien.html"><h1>Tốc Chiến</h1></a>
+            </div>
+        </div>
+    </div>
+</body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ASM.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="Images/Gamestore.jpg" alt="">
+        <div >
+            <ul class="menu">
+                <li><a href="home.html">Trang chủ</a></li>
+                <li><a href="Naptien.html">Nạp tiền </a></li>
+                <li><a href="#">Lịch sử </a></li>
+                <li><a href="#">Dịch vụ game</a></li>
+            </ul>
+        </div>
+        <div>
+            <ul class="dangky">
+                <li><a href="đangnhap.html">Đăng nhập</a></li>
+                <li><a href="đăngký.html">Đăng kí</a></li>
+            </ul>
+        </div>
+    </header>
+    <div>
+        <form action="">
+            <div class="form-group">
+                <div class="khung">
+                    <div style="margin-top: 120px;">
+                        <p style="font-size: large; font-variant: small-caps; color: darkgoldenrod;">Đăng nhập hệ thống</p>
+                        <hr>
+                        <div>User Name:</div>
+                        <input type="text"  name="username" class="form-control" >
+                        <div>Password</div>
+                        <input type="password" name="password" class="form-control" > <br>
+                        <label for=""><input type="checkbox" class="form-control"> Remember me? </label>
+                        <hr>
+                        <input type="submit" name="Login" value="Login"  class="form-control">
+                        <input type="submit" name="Login" value="Register"  class="form-control">
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ASM.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="Images/Gamestore.jpg" alt="">
+        <div >
+            <ul class="menu">
+                <li><a href="home.html">Trang chủ</a></li>
+                <li><a href="Naptien.html">Nạp tiền </a></li>
+                <li><a href="#">Lịch sử </a></li>
+                <li><a href="#">Dịch vụ game</a></li>
+            </ul>
+        </div>
+        <div>
+            <ul class="dangky">
+                <li><a href="đangnhap.html">Đăng nhập</a></li>
+                <li><a href="đăngký.html">Đăng kí</a></li>
+            </ul>
+        </div>
+    </header>
+    <div>
+        <form action="">
+            <div class="form-group">
+                <div class="khung">
+                    <div style="margin-top: 120px;">
+                        <p style="font-size: large; font-variant: small-caps; color: darkgoldenrod;">Đăng ký tài khoản</p>
+                        <hr>
+                        <div>User Name:</div>
+                        <input type="text"  name="username" class="form-control" >
+                        <div>Password:</div>
+                        <input type="password" name="password" class="form-control" > <br>
+                        <div> Nhập lại Password:</div>
+                        <input type="password" name="password" class="form-control" >
+                        <hr>
+                        <input type="submit" name="Login" value="Xác nhận"  class="form-control">   
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ASM.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="Images/Gamestore.jpg" alt="">
+        <div >
+            <ul class="menu">
+                <li><a href="home.html">Trang chủ</a></li>
+                <li><a href="Naptien.html">Nạp tiền </a></li>
+                <li><a href="#">Lịch sử </a></li>
+                <li><a href="Dichvu.html">Dịch vụ game</a></li>
+            </ul>
+        </div>
+        <div>
+            <ul class="dangky">
+                <li><a href="đangnhap.html">Đăng nhập</a></li>
+                <li><a href="đăngký.html">Đăng kí</a></li>
+            </ul>
+        </div>
+    </header>
+    <nav>
+        <img src="Images/Shopacc.jpg" width="100%" alt="">
+    </nav>
+    <div>
+        <div class="Tieude">Dịch vụ game</div>
+        <div class="Shop">
+            <div>
+                <img src="Images/Liên Quân.png"  alt="">
+                <a href="lienquan.html"><h1>Liên Quân</h1></a>
+            </div>
+            <div>
+                <img src="Images/Lửa chùa.jpg"  alt="">
+                <a href="luachua.html"><h1>Lửa Chùa</h1></a>
+            </div>
+            <div>
+                <img src="Images/Ngọc rồng.png"  alt="">
+                <a href="Ngocrong.html"><h1>Ngọc rồng</h1></a>
+            </div>
+            <div>
+                <img src="Images/Tốc Chiến.jpg"  alt="">
+                <a href="tocchien.html"><h1>Tốc Chiến</h1></a>
+            </div>
+        </div>
+    </div>
+    <script src="https://uhchat.net/code.php?f=1a52f6"></script>
+    <footer>
+        <div class="lienhe">
+            Gamestore là hệ thống giao dịch uy tín, giá rẻ và nhanh chóng
+        </div>
+        <div class="lienhe">
+            Zalo : 12345678910
+        </div>
+        <div class="lienhe">
+            FB   : Gamestore
+        </div>
+        <div class="lienhe">
+            Email: gamestore123@gmail.com
+        </div>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ASM.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="Images/Gamestore.jpg" alt="">
+        <div >
+            <ul class="menu">
+                <li><a href="home.html">Trang chủ</a></li>
+                <li><a href="Naptien.html">Nạp tiền </a></li>
+                <li><a href="#">Lịch sử </a></li>
+                <li><a href="Dichvu.html">Dịch vụ game</a></li>
+            </ul>
+        </div>
+        <div>
+            <ul class="dangky">
+                <li><a href="đangnhap.html">Đăng nhập</a></li>
+                <li><a href="đăngký.html">Đăng kí</a></li>
+            </ul>
+        </div>
+    </header>
+    <nav>
+        <img src="Images/Shopacc.jpg" width="100%" alt="">
+    </nav>
+    <div>
+        <div class="Tieude">Dịch vụ game</div>
+        <div class="Shop">
+            <div>
+                <img src="Images/Liên Quân.png"  alt="">
+                <a href="lienquan.html"><h1>Liên Quân</h1></a>
+            </div>
+            <div>
+                <img src="Images/Lửa chùa.jpg"  alt="">
+                <a href="luachua.html"><h1>Lửa Chùa</h1></a>
+            </div>
+            <div>
+                <img src="Images/Ngọc rồng.png"  alt="">
+                <a href="Ngocrong.html"><h1>Ngọc rồng</h1></a>
+            </div>
+            <div>
+                <img src="Images/Tốc Chiến.jpg"  alt="">
+                <a href="tocchien.html"><h1>Tốc Chiến</h1></a>
+            </div>
+        </div>
+    </div>
+    <script src="https://uhchat.net/code.php?f=1a52f6"></script>
+    <footer>
+        <div class="lienhe">
+            Gamestore là hệ thống giao dịch uy tín, giá rẻ và nhanh chóng
+        </div>
+        <div class="lienhe">
+            Zalo : 12345678910
+        </div>
+        <div class="lienhe">
+            FB   : Gamestore
+        </div>
+        <div class="lienhe">
+            Email: gamestore123@gmail.com
+        </div>
+    </footer>
+</body>
+</html>
